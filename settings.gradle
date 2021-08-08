@@ -1,0 +1,2 @@
+rootProject.name = "Doole Application"
+include ':app'
