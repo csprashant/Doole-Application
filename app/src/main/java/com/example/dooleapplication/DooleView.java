@@ -18,7 +18,7 @@ public class DooleView extends View  {
     Paint paint;
     Path path;
     public DooleView(Context context) {
-        super(context);
+        super(context.getApplicationContext());
         init(null);
     }
 
