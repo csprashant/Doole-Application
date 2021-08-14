@@ -136,6 +136,7 @@ Button saveBtn;
             Intent chooser=Intent.createChooser(shareIntent,"shareImage");
             startActivity(chooser);
         }
-        return true;}
+        return true;
+    }
 
 }
